@@ -1,6 +1,7 @@
 # scrampbomb
 :3
-welp, here is a funny project, that when executed, it silently scrambles the computer's keyboard. so-
+welp, here is a funny project, that when executed, it silently scrambles the computer's keyboard.
+it works only on windows so far, so-
 
  you (funi prankster) have an pendrive with *the code*,
  run the file on the computer,
