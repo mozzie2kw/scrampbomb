@@ -6,7 +6,6 @@ WshShell.Sendkeys "{CAPSLOCK}"
 WScript.Sleep 100
 WshShell.SendKeys "{NUMLOCK}"
 WScript.Sleep 100
-WshShell.Popup "owowowow such pccc :33", 5, "uwu", 64
 
 RandomIndex = Int(Rnd * UBound(StringsToType) + 1)
     StringToSend = StringsToType(RandomIndex)
